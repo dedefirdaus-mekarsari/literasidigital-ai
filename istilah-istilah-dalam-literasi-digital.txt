@@ -1,1 +1,67 @@
+Kumpulan Istilah Literasi Digital untuk Penulisan Buku dan Jurnal Ilmiah
+Dokumen ini berisi kumpulan istilah literasi digital beserta definisinya sebagai bahan referensi untuk penulisan buku, jurnal ilmiah, dan publikasi digital.
+A. Konsep Dasar Literasi Digital
+Literasi Digital (Digital Literacy)
+Definisi: Kemampuan seseorang untuk mengakses, memahami, mengevaluasi, menciptakan, dan mengomunikasikan informasi melalui teknologi digital secara efektif, kritis, etis, aman, dan bertanggung jawab.
+Kompetensi Digital (Digital Competence)
+Definisi: Kombinasi pengetahuan, keterampilan, sikap, dan nilai yang memungkinkan seseorang menggunakan teknologi digital secara efektif untuk belajar, bekerja, berkomunikasi, serta memecahkan masalah.
+Kecakapan Digital (Digital Skills)
+Definisi: Kemampuan teknis maupun nonteknis dalam mengoperasikan perangkat digital, aplikasi, dan layanan berbasis internet secara produktif.
+Kewargaan Digital (Digital Citizenship)
+Definisi: Kemampuan individu untuk berpartisipasi secara aktif, etis, bertanggung jawab, dan menghormati hak orang lain dalam lingkungan digital.
+Budaya Digital (Digital Culture)
+Definisi: Pola pikir, nilai, norma, kebiasaan, dan perilaku masyarakat yang terbentuk akibat pemanfaatan teknologi digital.
+Transformasi Digital (Digital Transformation)
+Definisi: Proses perubahan menyeluruh melalui pemanfaatan teknologi digital untuk meningkatkan efisiensi, inovasi, dan kualitas layanan.
+Masyarakat Digital (Digital Society)
+Definisi: Kelompok masyarakat yang aktivitas sosial, ekonomi, pendidikan, dan komunikasinya didukung teknologi digital.
+Ekosistem Digital (Digital Ecosystem)
+Definisi: Jaringan teknologi, pengguna, platform, data, organisasi, dan layanan digital yang saling terhubung.
+Inklusi Digital (Digital Inclusion)
+Definisi: Upaya memberikan kesempatan yang setara kepada masyarakat untuk mengakses dan memanfaatkan teknologi digital.
+Kesenjangan Digital (Digital Divide)
+Definisi: Perbedaan akses, kemampuan, dan pemanfaatan teknologi digital antarindividu atau kelompok.
+B. Artificial Intelligence (AI)
+Artificial Intelligence (AI)
+Definisi: Cabang ilmu komputer yang mengembangkan sistem yang mampu meniru kemampuan kognitif manusia seperti belajar, bernalar, mengenali pola, dan mengambil keputusan.
+Generative Artificial Intelligence (Generative AI)
+Definisi: Jenis AI yang mampu menghasilkan konten baru berupa teks, gambar, audio, video, maupun kode berdasarkan instruksi pengguna.
+Machine Learning
+Definisi: Metode AI yang memungkinkan komputer belajar dari data untuk mengenali pola dan membuat prediksi.
+Deep Learning
+Definisi: Metode Machine Learning menggunakan jaringan saraf tiruan berlapis untuk mempelajari pola data kompleks.
+Natural Language Processing (NLP)
+Definisi: Teknologi AI yang memungkinkan komputer memahami dan menghasilkan bahasa manusia.
+Computer Vision
+Definisi: Bidang AI yang memungkinkan komputer mengenali dan memahami gambar maupun video.
+Prompt Engineering
+Definisi: Teknik menyusun instruksi kepada AI agar menghasilkan keluaran yang akurat dan sesuai kebutuhan.
+AI Ethics
+Definisi: Prinsip moral dan pedoman penggunaan AI agar adil, aman, transparan, dan bertanggung jawab.
+Explainable AI (XAI)
+Definisi: Pendekatan AI yang memungkinkan keputusan sistem dapat dijelaskan dan dipahami manusia.
+Human-Centered AI
+Definisi: Pendekatan pengembangan AI yang menempatkan kebutuhan dan kesejahteraan manusia sebagai prioritas.
+C. Data dan Informasi
+Big Data
+Definisi: Kumpulan data yang sangat besar, beragam, dan terus bertambah sehingga membutuhkan teknologi khusus untuk pengelolaannya.
+Data Analytics
+Definisi: Proses mengolah dan menganalisis data untuk memperoleh informasi yang berguna.
+Business Analytics
+Definisi: Penerapan analisis data untuk mendukung keputusan bisnis.
+Data Mining
+Definisi: Proses menemukan pola atau pengetahuan dari kumpulan data besar.
+Data Visualization
+Definisi: Penyajian data dalam bentuk visual agar lebih mudah dipahami.
+Open Data
+Definisi: Data yang tersedia secara terbuka untuk digunakan dan dimanfaatkan masyarakat.
+Metadata
+Definisi: Data yang menjelaskan informasi mengenai data lainnya.
+Data Governance
+Definisi: Kebijakan dan prosedur untuk mengelola data agar berkualitas dan aman.
+Data Privacy
+Definisi: Perlindungan informasi pribadi agar tidak disalahgunakan.
+Data Security
+Definisi: Upaya melindungi data dari akses tidak sah, kehilangan, atau kerusakan.
+Catatan: Dokumen ini merupakan bagian awal. Istilah berikutnya akan dilanjutkan hingga lengkap 100+ istilah literasi digital.
 
